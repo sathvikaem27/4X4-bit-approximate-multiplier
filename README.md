@@ -40,8 +40,13 @@ The simulation waveforms confirm that the design maintains acceptable output fid
 ## Conclusion
 
 The approximate 4x4 multiplier achieves notable simplification in logic without significant degradation in functional behavior for most input cases. This makes it suitable for systems where slight inaccuracies are acceptable in exchange for optimization in area, delay, and power.
+
 ![WhatsApp Image 2025-05-31 at 21 42 59_4190f217](https://github.com/user-attachments/assets/5bd1e11c-6a47-48f9-88b9-545f1b4cef9a)
+
+
 ![WhatsApp Image 2025-05-31 at 21 07 24_c287d756](https://github.com/user-attachments/assets/34c5d59c-ab83-4ff3-8c3d-84064bc5225d)
+
+
 ![WhatsApp Image 2025-05-31 at 21 08 01_d511d728](https://github.com/user-attachments/assets/859fceb6-05ab-41ea-814f-e3e9a9e2c92e)
 
 
