@@ -27,7 +27,6 @@ Simulation has been performed using Vivado to verify the correctness and to obse
 ## Observations
 Mean Square Error (MSE): 8.875%
 LUT Usage: 7 
-Power Consumption: 40 mW
 Delay: 12.416 ns
 
 The simulation waveforms confirm that the design maintains acceptable output fidelity for most practical cases while benefiting from reduced logic usage and improved efficiency. Visualizations include timing diagrams and RTL schematic representations of the final synthesized architecture.
